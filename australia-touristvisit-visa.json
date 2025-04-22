@@ -1,22 +1,22 @@
 {
   "title": "Australia - Tourist/Visit Visa",
   "image": "https://cg-website-s3.s3.ap-south-1.amazonaws.com/0000/7/2024/12/17/icons8-australia-72.png",
-  "visa_fee": "XXX BDT",
-  "processing_time": "XX working days",
-  "validity": "XX days",
+  "visa_fee": "18500 BDT",
+  "processing_time": "7-10 working days (Depending on file numbers)",
+  "validity": "180 days",
   "details": [
     {
       "title": "Eligibility",
       "items": [
-        "Dummy item.",
+        "Must be 18+.",
         "Dummy item."
       ]
     },
     {
       "title": "Required Documents",
       "items": [
-        "Dummy item.",
-        "Dummy item.",
+        "Passport.",
+        "National Id Card.",
         "Dummy item."
       ]
     }
