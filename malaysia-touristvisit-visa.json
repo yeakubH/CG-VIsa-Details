@@ -1,23 +1,29 @@
 {
   "title": "Malaysia - Tourist/Visit Visa",
   "image": "https://cg-website-s3.s3.ap-south-1.amazonaws.com/0000/7/2024/12/17/icons8-malaysia-72.png",
-  "visa_fee": "XXX BDT",
-  "processing_time": "XX working days",
-  "validity": "XX days",
+  "visa_fee": "4500 BDT",
+  "processing_time": "10 working days",
+  "validity": "90 days",
   "details": [
     {
       "title": "Eligibility",
       "items": [
-        "Dummy item.",
-        "Dummy item."
+        "Hold a valid Bangladeshi passport.",
+        "Sufficient financial means.",
+        "No immigration violations"
       ]
     },
     {
       "title": "Required Documents",
       "items": [
-        "Dummy item.",
-        "Dummy item.",
-        "Dummy item."
+        "Valid passport(s) and minimum validity of the passport must be 6 months from the date of travel.",
+        "2 copies of recent color photos sized 35x50 cm Matt Paper white background.",
+        "2 sets of Visiting cards.",
+        "Bank statement of last 6 months.",
+        "Minimum account balance must be 70,000/- per person.This amount must be deposited in the account until the passport is given back from the Embassy.",
+        "NID Card.",
+        "Marriage Certificate Notarized and English translated copy (If Spouse name not mentioned in Passport) and First time visiting.",
+        "Specific documents for specific occupation."
       ]
     }
   ],
