@@ -1,23 +1,46 @@
 {
   "title": "France - Tourist/Visit Visa",
   "image": "https://cg-website-s3.s3.ap-south-1.amazonaws.com/0000/7/2024/12/17/icons8-france-72.png",
-  "visa_fee": "XXX BDT",
-  "processing_time": "XX working days",
-  "validity": "XX days",
+  "visa_fee": "11200 BDT",
+  "processing_time": "5-6 working days",
+  "validity": "90 - 180 days",
   "details": [
     {
       "title": "Eligibility",
       "items": [
-        "Dummy item.",
-        "Dummy item."
+        "Valid Passport.",
+        "Purpose of Visit.",
+        "Proof of Accommodation.",
+        "Proof of Financial Means.",
+        "Travel Insurance.",
+        "light Reservation.",
+        "Strong Ties to Bangladesh.",
+        "No Security or Immigration Flags."
       ]
     },
     {
       "title": "Required Documents",
       "items": [
-        "Dummy item.",
-        "Dummy item.",
-        "Dummy item."
+        "Valid Passport at least with 07 months Validity.",
+        "Photo: 35x40mm (3 copies).",
+        "NOC (No Objection Certificate).",
+        "Forwarding letter from applicant.",
+        "Invitation letter.",
+        "Last Six Months Bank Statement with Solvency Certificate.",
+        "Salary Slips of last 3 months with Organization seal.",
+        "Savings Documents (FDR, Property Documents or any assets documents).",
+        "Employment certificate.",
+        "Travel Health Insurance.",
+        "TIN certificate copy. (Notary needed).",
+        "NID copy (notarized-both applicant & spouse). (Notary Needed).",
+        "Travel Itinerary (Plan-mentioning dates and places).",
+        "Current Home addresses (both applicant & spouse- from when you are living there).",
+        "Parents (Father, Mother) Names and address and Date of birth (both applicant).",
+        "Any budget for the trip.",
+        "Name, address, passport number of any family member or friend lives in the France.",
+        "Marriage Certificate (Notarized).",
+        "Student ID card (if applicable).",
+        "Ticket and Hotel booking copy."
       ]
     }
   ],
