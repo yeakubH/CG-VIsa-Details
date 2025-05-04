@@ -1,23 +1,32 @@
 {
   "title": "Egypt - Tourist/Visit Visa",
   "image": "https://cg-website-s3.s3.ap-south-1.amazonaws.com/0000/7/2024/12/17/icons8-egypt-72.png",
-  "visa_fee": "XXX BDT",
-  "processing_time": "XX working days",
-  "validity": "XX days",
+  "visa_fee": "7600 BDT",
+  "processing_time": "35-40 working days",
+  "validity": "90 days",
   "details": [
     {
       "title": "Eligibility",
       "items": [
-        "Dummy item.",
-        "Dummy item."
+        "Have a Valid Passport.",
+        "Have a Legitimate Purpose of Travel.",
+        "Show Proof of Financial Means.",
+        "Have a Clean Travel History.",
+        "Have Confirmed Travel Arrangements."
       ]
     },
     {
       "title": "Required Documents",
       "items": [
-        "Dummy item.",
-        "Dummy item.",
-        "Dummy item."
+        "Valid passport(s) and minimum validity of the passport must be 6 months from the travel date..",
+        "2 copies of recent color photos sized Passport white background (Cap & Glass Photos not allowed).",
+        "2 sets of Visiting cards.",
+        "Bank statement of last 6 months and bank solvency certificate (Original seal signed copy and a set of photocopies).",
+        "Minimum account balance must be 500,000/- per person.",
+        "NID Card",
+        "Utility Bill Copy",
+        "Hotel Booking",
+        "Marriage Certificate Notarized and English translated copy (If Spouse name not mentioned in Passport)"
       ]
     }
   ],
