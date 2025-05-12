@@ -1,23 +1,38 @@
 {
   "title": "Italy - Tourist/Visit Visa",
   "image": "https://cg-website-s3.s3.ap-south-1.amazonaws.com/0000/7/2024/12/17/icons8-italy-72.png",
-  "visa_fee": "XXX BDT",
-  "processing_time": "XX working days",
-  "validity": "XX days",
+  "visa_fee": "10350 BDT",
+  "processing_time": "30 working days",
+  "validity": "90 - 180 days",
   "details": [
     {
       "title": "Eligibility",
       "items": [
-        "Dummy item.",
-        "Dummy item."
+        "Valid Passport.",
+        "Completed Visa Application Form.",
+        "Biometric Data Submission.",
+        "Proof of Purpose of Visit.",
+        "Proof of Financial Means.",
+        "Proof of Employment or Study.",
+        "Proof of Return to Bangladesh.",
+        "Round-Trip Flight Reservation."
       ]
     },
     {
       "title": "Required Documents",
       "items": [
-        "Dummy item.",
-        "Dummy item.",
-        "Dummy item."
+        "Appication Form.",
+        "Declaration of Consent.",
+        "Passport with 3 months of validity.",
+        "Two recent Photos must be in ICAO format (4.0 x 3.5 cm, color photo with white background, taken within the last 6 months).",
+        "Overseas medical insurance.",
+        "Flight and hotel reservation.",
+        "Personal cover letter explaining the purpose of your visit and who will bear the travel cost.",
+        "Tour Plan lining out the entire intended itinerary/activities in the Schengen area.",
+        "Employment of student document.",
+        "Proof of financial means of the applicant in Bangladesh.",
+        "Documents related to civil status.",
+        "Documents if visiting family or friends residing in Italy."
       ]
     }
   ],
