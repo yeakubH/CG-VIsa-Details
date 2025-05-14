@@ -1,23 +1,39 @@
 {
   "title": "Morocco - Tourist/Visit Visa",
   "image": "https://cg-website-s3.s3.ap-south-1.amazonaws.com/0000/7/2024/12/17/icons8-morocco-72.png",
-  "visa_fee": "XXX BDT",
-  "processing_time": "XX working days",
-  "validity": "XX days",
+  "visa_fee": "9000 BDT",
+  "processing_time": "15 working days",
+  "validity": "30 - 90 days",
   "details": [
     {
       "title": "Eligibility",
       "items": [
-        "Dummy item.",
-        "Dummy item."
+        "Valid Passport.",
+        "Completed Visa Application Form.",
+        "Passport-size Photographs.",
+        "Proof of Purpose of Visit.",
+        "Proof of Financial Means.",
+        "Employment/Occupation Proof.",
+        "Travel Itinerary.",
+        "Travel Insurance."
       ]
     },
     {
       "title": "Required Documents",
       "items": [
-        "Dummy item.",
-        "Dummy item.",
-        "Dummy item."
+        "Valid passport(s) and minimum validity of the passport must be 6 months from the date of travel.",
+        "2 copies recent color photos sized 4/3 cm white background.",
+        "NID Card.",
+        "Bank statement of last 3 months and bank solvency certificate.",
+        "Marriage Certificate Notarized and English translated copy ( If Spouse name not mentioned in Passport).",
+        "2 sets of Visiting card.",
+        "No objection certificate.",
+        "Office ID Card.",
+        "GO for Govt. Official Passport.",
+        "BMDC certificate for Doctor.",
+        "BAR council Certificate for Advocate.",
+        "An attestation of certified Invitation in case of family visit.",
+        "Specific documents for businessman or student."
       ]
     }
   ],
