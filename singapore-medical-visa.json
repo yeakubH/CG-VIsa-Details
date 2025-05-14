@@ -1,23 +1,36 @@
 {
   "title": "Singapore - Medical Visa",
   "image": "https://cg-website-s3.s3.ap-south-1.amazonaws.com/0000/7/2024/12/17/icons8-singapore-72.png",
-  "visa_fee": "XXX BDT",
-  "processing_time": "XX working days",
-  "validity": "XX days",
+  "visa_fee": "8000 BDT",
+  "processing_time": "8 working days",
+  "validity": "30 days",
   "details": [
     {
       "title": "Eligibility",
       "items": [
-        "Dummy item.",
-        "Dummy item."
+        "Valid Passport.",
+        "Visa Application Form (Form 14A).",
+        "Recent Passport-Size Photo.",
+        "Letter from Singapore Hospital or Medical Institution.",
+        "Cover Letter from Applicant.",
+        "Proof of Financial Means.",
+        "Flight Itinerary.",
+        "Accommodation Proof."
       ]
     },
     {
       "title": "Required Documents",
       "items": [
-        "Dummy item.",
-        "Dummy item.",
-        "Dummy item."
+        "Valid passport(s) and minimum validity of the passport must be 6 months from the date of travel..",
+        "2 copies of recent color photos sized 35x45 mm Matt Paper white background (Cap & Glass Photos not allowed).",
+        "2 sets of Visiting cards.",
+        "Bank statement of last 6 months and bank solvency certificate (Original seal signed copy and a set of photocopies).",
+        "NID Card.",
+        "Marriage Certificate Notarized and English translated copy ( If Spouse name not mentioned in Passport).",
+        "Vaccine Certificate.",
+        "Bangladeshi Doctor Recommendation Latter & Previous medical report.",
+        "Singapore Hospital Doctor Appointment.",
+        "Additional specific documents for specific occupation."
       ]
     }
   ],
