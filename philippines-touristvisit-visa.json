@@ -1,23 +1,44 @@
 {
   "title": "Philippines - Tourist/Visit Visa",
   "image": "https://cg-website-s3.s3.ap-south-1.amazonaws.com/0000/7/2024/12/17/icons8-philippines-72.png",
-  "visa_fee": "XXX BDT",
-  "processing_time": "XX working days",
-  "validity": "XX days",
+  "visa_fee": "8000 BDT",
+  "processing_time": "10 - 15 working days",
+  "validity": "30 - 90 days",
   "details": [
     {
       "title": "Eligibility",
       "items": [
-        "Dummy item.",
-        "Dummy item."
+        "Valid Passport.",
+        "Atleast travel to one ASIAN country.",
+        "Completed Visa Application Form.",
+        "Passport-size Photographs.",
+        "Proof of Purpose of Visit.",
+        "Proof of Financial Means.",
+        "Employment/Occupation Proof.",
+        "Travel Itinerary.",
+        "Travel Insurance."
       ]
     },
     {
       "title": "Required Documents",
       "items": [
-        "Dummy item.",
-        "Dummy item.",
-        "Dummy item."
+        "Proof of Financial capability e.g. bank solvency.",
+        "Bank Statement of visa applicant, Minimum Balance Tk 2 Lac.",
+        "TIN Certificate (English).",
+        "For Businessmen: Trade License (English translate with notarized).",
+        "For Employees: NOC letter, Student: Letter fromschool/University. ID.",
+        "Two copies of 2x2 recent photographs (white background).",
+        "Invitation letter from sponsor.",
+        "Tour Plan.",
+        "Travel itinerary (Booking).",
+        "Booking Hotel/ accommodation.",
+        "Personal letterto the visa officer.",
+        "Passport valid for not lessthan Nine (9) months.",
+        "Passport photocopy &Original.",
+        "National ID.",
+        "Atleast travel to one ASIAN country. e.g. Singapore, Malaysia, Thailand etc..",
+        "Dummy.",
+        "Dummy."
       ]
     }
   ],
