@@ -1,23 +1,37 @@
 {
   "title": "Switzerland - Tourist/Visit Visa",
   "image": "https://cg-website-s3.s3.ap-south-1.amazonaws.com/0000/7/2024/12/17/icons8-switzerland-72.png",
-  "visa_fee": "XXX BDT",
-  "processing_time": "XX working days",
-  "validity": "XX days",
+   "visa_fee": "11,500 BDT (Embassy) + 4,000 BDT (Processing) + Travel Insurance extra",
+  "processing_time": "12–15 working days",
+  "validity": "Up to 90 days within 180 days",
   "details": [
     {
       "title": "Eligibility",
       "items": [
-        "Dummy item.",
-        "Dummy item."
+        "Valid Bangladeshi passport (issued within the last 10 years and valid for at least 3 months beyond return date)",
+        "Completed and signed visa application form",
+        "Clear purpose of travel with supporting documents (tourism, visit, etc.)",
+        "Proof of financial means (bank statements of last 6 months)",
+        "Proof of strong ties to Bangladesh (employment, education, family, property)",
+        "Confirmed hotel bookings or invitation letter from Swiss host",
+        "Round-trip flight booking",
+        "Travel insurance covering at least €30,000 for the Schengen area"
       ]
     },
     {
       "title": "Required Documents",
       "items": [
-        "Dummy item.",
-        "Dummy item.",
-        "Dummy item."
+        "Passport + photocopy of data page and all previous passports",
+        "2 recent passport-size photos (white background)",
+        "Cover letter explaining purpose of travel",
+        "Personal bank statement (last 6 months) and TIN certificate",
+        "Employment letter and salary slips (last 3 months), or trade license and tax documents if self-employed",
+        "Student ID and institutional letter if a student",
+        "Hotel reservation for entire trip and day-by-day travel itinerary",
+        "Flight booking (round-trip)",
+        "Civil status documents: marriage, divorce, birth, or death certificates if applicable",
+        "Parental consent and passport copy (for minors if one or both parents are not traveling)",
+        "Leave letter from employer in Bangladesh (mentioning position and leave approval)"
       ]
     }
   ],
