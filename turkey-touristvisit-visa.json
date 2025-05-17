@@ -1,23 +1,42 @@
 {
   "title": "Turkey - Tourist/Visit Visa",
   "image": "https://cg-website-s3.s3.ap-south-1.amazonaws.com/0000/7/2024/12/17/icons8-turkey-72.png",
-  "visa_fee": "XXX BDT",
-  "processing_time": "XX working days",
-  "validity": "XX days",
+  "visa_fee": "25000 BDT",
+  "processing_time": "3 - 4 weeks",
+  "validity": "180 days",
   "details": [
     {
       "title": "Eligibility",
       "items": [
-        "Dummy item.",
-        "Dummy item."
+        "Valid Passport.",
+        "Visa Application Form.",
+        "Photograph.",
+        "Proof of Travel Purpose.",
+        "Financial Documents.",
+        "Proof of Employment/Study.",
+        "Travel Insurance.",
+        "Flight Booking."
       ]
     },
     {
       "title": "Required Documents",
       "items": [
-        "Dummy item.",
-        "Dummy item.",
-        "Dummy item."
+        "Visa application form must be filled and signed by the applicant.",
+        "A valid passport with 6 months validity on the date of application and it should have at least 2 empty pages..",
+        "National ID card or birth certificate photocopy (ID mandatory).",
+        "Airline ticket reservation.",
+        "Hotel reservation.",
+        "Original bank statement up to date covering last 3 months of transactions + Original bank solvency (of the cost bearer).",
+        "Covering letter / Request letter / Forwarding letter.",
+        "Introduction Letter (Yourself).",
+        "Trade license attested by notary public (For businessman).",
+        "Income tax return / TIN attested by notary public (Business person & employee).",
+        "NOC + Visiting card + Official ID (Only for employee).",
+        "Membership + Memorandum + Incorporation + Export + Import certificate attested by a notary public (Only for businessman).",
+        "Applicant aged below 18 travelling with one parent needs to provide a permission letter from another parent..",
+        "BMDC certificate or Bar Council certificate attested by notary public (Occupation wise).",
+        "Retirement’s letter for the official personnel who are retired attested by a notary public.",
+        "3 copies biometric photos in size 2x2 matte paper."
       ]
     }
   ],
