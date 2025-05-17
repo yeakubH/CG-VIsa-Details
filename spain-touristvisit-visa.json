@@ -1,23 +1,43 @@
 {
   "title": "Spain - Tourist/Visit Visa",
   "image": "https://cg-website-s3.s3.ap-south-1.amazonaws.com/0000/7/2024/12/17/icons8-spain-72.png",
-  "visa_fee": "XXX BDT",
-  "processing_time": "XX working days",
-  "validity": "XX days",
+  "visa_fee": "11,794 BDT (Visa Fee) + 2,004 BDT (Service Charge) + 250 BDT (Collection Fee) + 4,000 BDT (Processing Fee) + Travel Insurance extra",
+  "processing_time": "21 calendar days (Embassy) + 5–6 working days (File processing)",
+  "validity": "Up to 90 days within 180 days",
   "details": [
     {
       "title": "Eligibility",
       "items": [
-        "Dummy item.",
-        "Dummy item."
+        "Valid Bangladeshi passport (valid for at least 6 months beyond intended stay, with 2 blank pages)",
+        "Completed and signed Schengen visa application form in capital letters",
+        "Clear purpose of travel such as tourism or visiting relatives/friends in Spain",
+        "Hotel reservation or invitation letter certified by Spanish Police, with host documents",
+        "Travel insurance covering a minimum of €30,000 for the full trip duration",
+        "Sufficient personal financial means (6 months updated bank statement, FDR, asset proof)",
+        "Proof of employment, business ownership, or student status (translated into Spanish)",
+        "All civil status documents (marriage, birth, etc.) must be legalized by MOFA and translated into Spanish",
+        "Translated income tax return and salary slips",
+        "Flight reservation for round-trip journey",
+        "No-objection letter from non-traveling parent for minors, signed at Spanish Embassy",
+        "Previous passport and visa history must be provided"
       ]
     },
     {
       "title": "Required Documents",
       "items": [
-        "Dummy item.",
-        "Dummy item.",
-        "Dummy item."
+          "Original and previous passports with photocopies of bio pages and visa pages",
+        "Two passport-size photographs (35mm x 45mm, white background)",
+        "Visa application form filled in capital letters and signed",
+        "Cover letter in Spanish addressed to the Embassy of Spain",
+        "Round-trip flight booking and confirmed hotel reservation or certified invitation letter",
+        "Travel insurance with minimum €30,000 coverage for Schengen countries",
+        "Personal bank statement (last 6 months, updated, signed and sealed by bank)",
+        "Proof of income: TIN, translated tax return, salary slips (last 6 months)",
+        "Proof of employment: Leave letter and employer's letter (translated to Spanish)",
+        "For self-employed: Trade license, incorporation certificate, MOFA legalized and translated",
+        "Civil status documents: Marriage, birth, death certificates (legalized and translated to Spanish)",
+        "Proof of relationship for family members applying together (marriage/birth certificate)",
+        "For minors: No-objection letter from parent not traveling (in Spanish), both parents’ signatures, ID/passport copies"
       ]
     }
   ],
