@@ -1,23 +1,39 @@
 {
   "title": "Poland - Tourist/Visit Visa",
   "image": "https://cg-website-s3.s3.ap-south-1.amazonaws.com/0000/7/2024/12/17/icons8-poland-72.png",
-  "visa_fee": "XXX BDT",
-  "processing_time": "XX working days",
-  "validity": "XX days",
+  "visa_fee": "9,800 BDT (Visa Fee & Service Charge) + ~10,000 BDT (Tourist Voucher) + Hotel Confirmation extra",
+  "processing_time": "4–20 working days (Embassy) + 3–4 working days (File processing)",
+  "validity": "Up to 90 days within 180 days",
   "details": [
     {
       "title": "Eligibility",
       "items": [
-        "Dummy item.",
-        "Dummy item."
+        "Valid Bangladeshi passport (valid for at least 6 months beyond visa expiry)",
+        "Completed and signed Poland visa application form and tourist questionnaire",
+        "Clear purpose of travel such as tourism or business",
+        "Tourist voucher from a certified Polish travel agency (not a hotel booking)",
+        "Confirmed round-trip air ticket and paid hotel booking",
+        "Bank statement showing sufficient financial means",
+        "Employment certificate stating wages over past month/6 months/year",
+        "Proof of property ownership and family structure in Bangladesh",
+        "All documents must be submitted at least 30 days before intended travel"
       ]
     },
     {
       "title": "Required Documents",
       "items": [
-        "Dummy item.",
-        "Dummy item.",
-        "Dummy item."
+        "Duly filled visa application form (typed or handwritten legibly)",
+        "One passport-size color photograph (3.5 x 4.5 cm), glued to the form",
+        "Tourist questionnaire (downloadable from embassy website)",
+        "Tourist voucher from licensed travel agent with agent name and reference number",
+        "Valid passport and photocopy of bio pages (valid for at least 6 months after visa expiry)",
+        "Confirmed hotel accommodation receipt",
+        "Confirmed round-trip flight booking",
+        "Payment confirmation for visa fee",
+        "Personal bank statement",
+        "Employer's salary statement (monthly, half-yearly, or yearly)",
+        "Documents proving property ownership in Bangladesh",
+        "Certificate outlining applicant's family structure"
       ]
     }
   ],
