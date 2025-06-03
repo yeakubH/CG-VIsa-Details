@@ -1,23 +1,38 @@
 {
   "title": "South Korea - Tourist/Visit Visa",
   "image": "https://cg-website-s3.s3.ap-south-1.amazonaws.com/0000/7/2024/12/17/icons8-south-korea-72.png",
-  "visa_fee": "XXX BDT",
-  "processing_time": "XX working days",
-  "validity": "XX days",
+  "visa_fee": "3,500 BDT (Processing Fee) + Additional cost for translation/notary if applicable",
+  "processing_time": "5 working days (approx.)",
+  "validity": "Typically up to 90 days (as decided by embassy)",
   "details": [
     {
       "title": "Eligibility",
       "items": [
-        "Dummy item.",
-        "Dummy item."
+        "Valid Bangladeshi passport with at least 6 months validity from travel date",
+        "Two recent color passport-size photos (35mm x 45mm, matte paper, white background)",
+        "Minimum bank balance of 700,000 BDT per person maintained until passport return",
+        "NID card, TIN certificate, and income tax return certificate",
+        "Covid-19 vaccination completion certificate",
+        "Notarized and translated marriage certificate if spouse name is not mentioned in passport",
+        "Relevant documentation for employment, business, or student status",
+        "Optional: Invitation letter and supporting documents from Korean host if applicable"
       ]
     },
     {
       "title": "Required Documents",
       "items": [
-        "Dummy item.",
-        "Dummy item.",
-        "Dummy item."
+        "Valid passport (current and previous) with at least 6 months validity",
+        "Two passport-size photos (35mm x 45mm, white background, no cap/glasses)",
+        "Two sets of visiting cards",
+        "Personal bank statement for last 6 months and solvency certificate (sealed and signed)",
+        "NID card copy",
+        "TIN certificate and income tax return certificate",
+        "Covid-19 vaccination certificate",
+        "Notarized and English-translated marriage certificate if required",
+        "For Job Holders: NOC/Employment Certificate with details, salary certificate, last 6 months' salary slips or account statements, office ID, GO (if govt. employee), BMDC/BAR Council/Retirement certificate as applicable",
+        "For Businesspersons: Office pad, company bank statement, renewed trade license with notarized English copy, memorandum (for limited companies)",
+        "For Students: Photocopies of student ID card (both sides), birth certificate",
+        "If Invited: Invitation letter, passport/ID copy of inviter, affidavit/guarantee letter from host"
       ]
     }
   ],
