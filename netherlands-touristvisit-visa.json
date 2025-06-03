@@ -1,23 +1,44 @@
 {
   "title": "Netherlands - Tourist/Visit Visa",
   "image": "https://cg-website-s3.s3.ap-south-1.amazonaws.com/0000/7/2024/12/17/icons8-netherlands-72.png",
-  "visa_fee": "XXX BDT",
-  "processing_time": "XX working days",
-  "validity": "XX days",
+  "visa_fee": "11,300 BDT (Embassy) + 1,117.62 BDT (VFS Service Fee) + 230 BDT (Bank Fee) + 4,000 BDT (Processing Fee) + Insurance & Notary extra",
+  "processing_time": "15–45 calendar days (Embassy) + 5–7 working days (File processing)",
+  "validity": "Up to 90 days within 180 days",
   "details": [
     {
       "title": "Eligibility",
       "items": [
-        "Dummy item.",
-        "Dummy item."
+        "Valid Bangladeshi passport with at least 2 blank pages, valid for 3 months after leaving Schengen area",
+        "Completed and signed Schengen visa application form (Form 119031)",
+        "Clear purpose of travel for tourism or visiting friends/family",
+        "Proof of financial means (bank and credit card statements for last 6 months)",
+        "Travel insurance valid in Schengen with coverage of at least €30,000",
+        "Confirmed hotel booking and round-trip flight reservation",
+        "Employment proof or business ownership with trade license or company documents",
+        "Invitation letter from host or company (if applicable)",
+        "Civil status documents (marriage, birth, divorce, death certificates)",
+        "Consent letter and documents for minors traveling alone or with one parent"
       ]
     },
     {
       "title": "Required Documents",
       "items": [
-        "Dummy item.",
-        "Dummy item.",
-        "Dummy item."
+        "Visa application form no. 119031, completed and signed",
+        "Passport with photocopy of bio-page and all Schengen visas",
+        "One recent passport-size photo (35mm x 45mm, light background)",
+        "Cover letter explaining travel purpose addressed to the Embassy",
+        "Employer or business owner letter explaining the reason and duration of visit",
+        "Roundtrip airline reservation and travel itinerary",
+        "Health and travel insurance with minimum €30,000 coverage",
+        "Personal bank statement and credit card statement (last 6 months)",
+        "Civil status documents: marriage, divorce, death, birth certificates",
+        "Hotel reservation for the full stay",
+        "Proof of employment: company letter, salary statement, trade license, MoA",
+        "If self-employed: trade license, incorporation certificate, ITR, company bank statement",
+        "Invitation from visited company (if applicable)",
+        "Proof of recent business transactions or contracts (if applicable)",
+        "Proof of attendance and program details for trade fairs or congress (if applicable)",
+        "Parental consent and documents for minors (passport copy, financials, birth certificate)"
       ]
     }
   ],
