@@ -1,23 +1,34 @@
 {
-  "title": "Singapore - Tourist/Visit Visa",
+  "title": "Netherlands - Tourist/Visit Visa",
   "image": "https://cg-website-s3.s3.ap-south-1.amazonaws.com/0000/7/2024/12/17/icons8-singapore-72.png",
-  "visa_fee": "XXX BDT",
-  "processing_time": "XX working days",
-  "validity": "XX days",
+  "visa_fee": "6,000 BDT (Invitation by Chologhuri) + Additional translation/notary fees if required",
+  "processing_time": "10 working days (Embassy) + 1–2 working days (File preparation)",
+  "validity": "2 months validity with 30 days stay, Double Entry",
   "details": [
     {
       "title": "Eligibility",
       "items": [
-        "Dummy item.",
-        "Dummy item."
+        "Valid Bangladeshi passport with minimum 6 months validity from travel date",
+        "Two recent color passport-size photos (35mm x 45mm, matte paper, white background)",
+        "Minimum personal bank balance of 70,000 BDT per person, maintained until passport return",
+        "NID card and notarized English translation of marriage certificate (if applicable)",
+        "Applicable documents depending on applicant type: job holder, businessperson, or student",
+        "All current and previous passports must be submitted",
+        "Only tourist and business visa categories are accepted; other types are not processed"
       ]
     },
     {
       "title": "Required Documents",
       "items": [
-        "Dummy item.",
-        "Dummy item.",
-        "Dummy item."
+        "Valid passport (current and previous) with at least 6 months validity",
+        "Two recent passport-size photos (35mm x 45mm, no cap or glasses, white background)",
+        "Two sets of visiting cards",
+        "Personal bank statement (last 6 months), salary slips (last 3 months), and solvency certificate (with seal and signature)",
+        "NID card copy",
+        "Marriage certificate (notarized and translated) if spouse name not on passport",
+        "For Job Holders: NOC, Office ID, GO for government employees, BMDC certificate for doctors, BAR Council certificate for lawyers, retirement certificate if applicable",
+        "For Business Persons: Office pad blank page, renewed trade license with English notarization, memorandum for limited companies",
+        "For Students: Student ID (both sides), birth certificate"
       ]
     }
   ],
